@@ -1,4 +1,9 @@
 body {color: navy;}
-h1 {color:olivedrab}
-h2 {color:steelblue}
+h1 {color:olivedrab;
+    font-family: 'Cairo', sans-serif;
+}
+h2 {color:steelblue;
+    font-family: 'Cairo', sans-serif;
+}
 hr {color:midnightblue}
+body {font-family:Georgia, Garamond, Arial, Times New Roman;}
